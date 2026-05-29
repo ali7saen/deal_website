@@ -1,0 +1,215 @@
+{
+  "brand": { "name": "Deal", "tagline": "Your smart marketplace" },
+  "meta": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy Policy"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "categories": "Categories",
+    "features": "Features",
+    "faq": "FAQ",
+    "menu": "Menu",
+    "close": "Close menu"
+  },
+  "lang": { "switch": "العربية", "label": "Language" },
+  "cta": {
+    "download": "Download the App",
+    "getStarted": "Get Started",
+    "browse": "Browse Categories",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More"
+  },
+  "hero": {
+    "badge": "New · Available on iOS & Android",
+    "title": "Buy and sell anything,",
+    "titleHighlight": "the smart way.",
+    "subtitle": "Deal connects buyers and sellers across all of Iraq in one trusted marketplace. List cars, home furniture, accessories, houses and mobiles in seconds — and reach real buyers near you.",
+    "primaryCta": "Download the App",
+    "secondaryCta": "Browse Categories",
+    "point1": "Covers all of Iraq",
+    "point2": "Low service fees",
+    "point3": "Direct WhatsApp contact",
+    "imageAlt": "Deal app shown on a smartphone"
+  },
+  "categories": {
+    "title": "Explore our categories",
+    "subtitle": "Whatever you are looking for, you will find it on Deal.",
+    "cars": {
+      "name": "Cars",
+      "desc": "Browse verified vehicles, from city cars to family SUVs, all across Iraq."
+    },
+    "furniture": {
+      "name": "Home furniture",
+      "desc": "Sofas, beds, tables and home décor — new and gently used, at fair prices."
+    },
+    "accessories": {
+      "name": "Women's accessories",
+      "desc": "Bags, jewelry, watches and beauty finds — fresh styles added every day."
+    },
+    "houses": {
+      "name": "Houses",
+      "desc": "Apartments, villas and land for sale or rent, with photos and full details."
+    },
+    "mobiles": {
+      "name": "Mobiles",
+      "desc": "Smartphones and accessories, new and used, at prices that fit your budget."
+    }
+  },
+  "features": {
+    "title": "Why people choose Deal",
+    "subtitle": "A faster, safer and simpler way to trade.",
+    "items": {
+      "fast": {
+        "title": "List in 30 seconds",
+        "desc": "Snap a photo, add a price and publish. Your ad goes live instantly — no paperwork."
+      },
+      "secure": {
+        "title": "Verified & secure",
+        "desc": "Verified profiles and in-app reporting keep scammers out and your deals safe."
+      },
+      "chat": {
+        "title": "Contact via WhatsApp",
+        "desc": "No in-app chat needed — reach buyers and sellers directly on WhatsApp to agree on the details."
+      },
+      "search": {
+        "title": "Smart search & filters",
+        "desc": "Filter by price, location and condition to find exactly what you need."
+      },
+      "local": {
+        "title": "Local deals near you",
+        "desc": "Discover listings in your neighborhood and meet sellers close to home."
+      },
+      "free": {
+        "title": "Free to post",
+        "desc": "Posting your first listings is completely free. Sell more without extra fees."
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "subtitle": "Everything you need to know about getting started.",
+    "items": {
+      "q1": {
+        "q": "Is Deal free to use?",
+        "a": "Yes. Browsing and posting listings is free. Optional paid boosts are available if you want extra visibility for your ad."
+      },
+      "q2": {
+        "q": "How do I post a listing?",
+        "a": "Download the app, create an account, tap the “+” button, add photos, a price and a description, then publish. Your ad goes live in seconds."
+      },
+      "q3": {
+        "q": "How does Deal keep me safe?",
+        "a": "We verify accounts, monitor activity and give you tools to report suspicious users. We always recommend meeting in public places for in-person deals."
+      },
+      "q4": {
+        "q": "Which categories can I sell in?",
+        "a": "You can buy and sell cars, home furniture, women's accessories, houses and mobiles."
+      },
+      "q5": {
+        "q": "Which devices are supported?",
+        "a": "Deal is available on both iOS and Android, and works on phones and tablets."
+      }
+    }
+  },
+  "homeCta": {
+    "title": "Ready to make your first deal?",
+    "subtitle": "Be among the first to buy and sell on Deal across Iraq. Download the app today — it only takes a minute.",
+    "button": "Download the App"
+  },
+  "about": {
+    "title": "About Deal",
+    "subtitle": "A new Iraqi marketplace built to give you more value for less.",
+    "introTitle": "Who we are",
+    "introBody": "Deal is a new marketplace that connects buyers and sellers across all of Iraq in one simple, trusted place. Whether you are selling a car, home furniture, women's accessories, a house or a mobile phone, Deal makes it easy to reach real people near you and agree on a deal directly.",
+    "visionTitle": "Our vision",
+    "visionBody": "To become the most trusted and most affordable marketplace in Iraq — a place where every deal feels safe, simple and fair.",
+    "missionTitle": "Our mission",
+    "missionBody": "To give people real value by keeping service fees low, so buying and selling stays simple and affordable for everyone.",
+    "storyTitle": "Our story",
+    "storyBody": "Deal was founded in 2026. We noticed that similar apps charge high service fees, making buying and selling more expensive than it should be. So we decided to enter the market with a different approach: a clean, easy app that covers all of Iraq and delivers real value with much lower service fees. We are just getting started, and every update is shaped by the people who use Deal."
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "Have a question or some feedback? We would love to hear from you.",
+    "formTitle": "Send us a message",
+    "infoTitle": "Get in touch",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "email": "Email address",
+      "emailPlaceholder": "you{'@'}example.com",
+      "phone": "Phone number (optional)",
+      "phonePlaceholder": "+1 555 000 0000",
+      "subject": "Subject",
+      "subjectPlaceholder": "Choose a subject",
+      "message": "Message",
+      "messagePlaceholder": "How can we help?",
+      "submit": "Send message",
+      "sending": "Sending..."
+    },
+    "subjects": {
+      "inquiry": "General inquiry",
+      "support": "Technical support",
+      "complaint": "Complaint",
+      "suggestion": "Suggestion",
+      "partnership": "Partnership"
+    },
+    "errors": {
+      "nameRequired": "Please enter your name.",
+      "emailRequired": "Please enter your email address.",
+      "emailInvalid": "Please enter a valid email address.",
+      "subjectRequired": "Please choose a subject.",
+      "messageRequired": "Please enter your message.",
+      "messageShort": "Your message is a bit short — please add more detail."
+    },
+    "success": "Thanks! Your message has been sent. We will get back to you soon.",
+    "info": {
+      "emailLabel": "Email",
+      "email": "support{'@'}deal.app",
+      "phoneLabel": "Phone / WhatsApp",
+      "phone": "+964 770 000 0000"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "updated": "Last updated: May 28, 2026",
+    "intro": {
+      "title": "Introduction",
+      "body": "At Deal, your privacy matters to us. This Privacy Policy explains what information we collect, how we use it, and the choices you have. By using the Deal app or website, you agree to the practices described below."
+    },
+    "collect": {
+      "title": "Information we collect",
+      "body": "We collect information you provide directly, such as your name, email address, phone number and the details of the listings you post. We also collect limited technical data automatically, including device type, app version and general location, to keep the service running smoothly."
+    },
+    "use": {
+      "title": "How we use your information",
+      "body": "We use your information to operate the marketplace, connect buyers and sellers, improve our features, prevent fraud and abuse, and send you important updates about your account. We do not sell your personal data to third parties."
+    },
+    "protect": {
+      "title": "How we protect your data",
+      "body": "We apply industry-standard security measures, including encryption in transit and restricted internal access, to protect your information. While no system is perfectly secure, we work continuously to safeguard your data against unauthorized access."
+    },
+    "rights": {
+      "title": "Your rights",
+      "body": "You can access, update or delete your personal information at any time from your account settings, or by contacting us. You may also request a copy of your data or ask us to stop processing it, subject to applicable law."
+    },
+    "contact": {
+      "title": "Contact us",
+      "body": "If you have any questions about this Privacy Policy or how we handle your data, please reach out to us at support{'@'}deal.app and our team will be happy to help."
+    }
+  },
+  "footer": {
+    "about": "Deal is your smart marketplace for buying and selling cars, home furniture, accessories, houses and mobiles across Iraq — quickly, safely and locally.",
+    "quickLinks": "Quick links",
+    "categories": "Categories",
+    "contactTitle": "Contact",
+    "rights": "All rights reserved.",
+    "madeWith": "Built for buyers and sellers everywhere."
+  }
+}
