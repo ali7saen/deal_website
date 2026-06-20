@@ -1,5 +1,8 @@
 {
-  "brand": { "name": "Deal", "tagline": "Your smart marketplace" },
+  "brand": {
+    "name": "Deal",
+    "tagline": "Your smart marketplace"
+  },
   "meta": {
     "home": "Home",
     "about": "About",
@@ -17,7 +20,10 @@
     "menu": "Menu",
     "close": "Close menu"
   },
-  "lang": { "switch": "العربية", "label": "Language" },
+  "lang": {
+    "switch": "العربية",
+    "label": "Language"
+  },
   "cta": {
     "download": "Download the App",
     "getStarted": "Get Started",
@@ -145,7 +151,7 @@
       "email": "Email address",
       "emailPlaceholder": "you{'@'}example.com",
       "phone": "Phone number (optional)",
-      "phonePlaceholder": "+1 555 000 0000",
+      "phonePlaceholder": "+964 7xx xxx xxxx",
       "subject": "Subject",
       "subjectPlaceholder": "Choose a subject",
       "message": "Message",
@@ -171,9 +177,11 @@
     "success": "Thanks! Your message has been sent. We will get back to you soon.",
     "info": {
       "emailLabel": "Email",
-      "email": "support{'@'}deal.app",
+      "email": "haider.alwide@gmail.com",
       "phoneLabel": "Phone / WhatsApp",
-      "phone": "+964 770 000 0000"
+      "phone": "009647888311167",
+      "phone2Label": "Other phone",
+      "phone2": "009647800035750"
     }
   },
   "privacy": {
@@ -181,27 +189,43 @@
     "updated": "Last updated: May 28, 2026",
     "intro": {
       "title": "Introduction",
-      "body": "At Deal, your privacy matters to us. This Privacy Policy explains what information we collect, how we use it, and the choices you have. By using the Deal app or website, you agree to the practices described below."
+      "body": "At Deal (the “App”, “we”, “our”), we are committed to protecting the privacy of our users. This Privacy Policy explains how we collect, use, protect and share your data when you use our app. This policy has been prepared to comply with global laws and the standards of the Google Play Store and the Apple App Store."
     },
     "collect": {
       "title": "Information we collect",
-      "body": "We collect information you provide directly, such as your name, email address, phone number and the details of the listings you post. We also collect limited technical data automatically, including device type, app version and general location, to keep the service running smoothly."
+      "body": "We collect specific types of data to provide and improve our services. Personal Data: such as your name, phone number (used for OTP verification at registration), email address and profile information. User-Generated Content: the photos, text and details you share when you create a post to sell or list a product (such as cars or others). Technical and non-personal data: including device data, IP addresses, usage logs and unique notification identifiers (Device Tokens)."
     },
     "use": {
-      "title": "How we use your information",
-      "body": "We use your information to operate the marketplace, connect buyers and sellers, improve our features, prevent fraud and abuse, and send you important updates about your account. We do not sell your personal data to third parties."
+      "title": "Why we collect your data",
+      "body": "Your data is handled transparently for the following purposes: Account management — creating and securing user accounts and performing OTP verification. System operation — allowing you to create posts, browse products and categories, and add photos to your listings. Communication and notifications — sending important updates and alerts related to posts or security. Improving the user experience — personalizing content, saving settings (such as language and light/dark theme) and resolving technical issues."
+    },
+    "permissions": {
+      "title": "Sensitive permissions",
+      "body": "For the app to work correctly, we will ask you to grant a set of permissions, which you can withdraw at any time from your device settings. Camera & Storage: to let you pick or capture photos to upload with the listings you create, or to update your profile picture. Push Notifications: to send instant updates about your account activity and posts via Firebase Cloud Messaging."
+    },
+    "thirdParty": {
+      "title": "Sharing data with third parties",
+      "body": "We never sell your data. We may share some necessary data with trusted third-party service providers solely to operate the app. Firebase (Core & Messaging): to manage push notifications and process security analytics and app stability. Cloud servers and payment APIs: to securely connect the app's data to our backend."
+    },
+    "retention": {
+      "title": "Data retention and account deletion",
+      "body": "In line with Google and Apple policies, you have full control over your data and the right to erase it. Retention: we keep your personal data for as long as your account is active in order to provide our services to you. Account and data deletion: you have the right at any time to request deletion of your account and all your posts, and permanent erasure of your data from our servers, through the “Delete Account” option available inside the app, by contacting our support team, or by reaching out to us directly."
+    },
+    "children": {
+      "title": "Children's privacy",
+      "body": "Our app is primarily intended for an adult audience and is not designed or directed at children under the age of 13 (or the legal age in your country). We do not knowingly collect any personal data from children. If we learn that we have collected information from a child under 13, we will take the necessary steps to remove that information as quickly as possible, in compliance with COPPA and international laws."
     },
     "protect": {
-      "title": "How we protect your data",
-      "body": "We apply industry-standard security measures, including encryption in transit and restricted internal access, to protect your information. While no system is perfectly secure, we work continuously to safeguard your data against unauthorized access."
+      "title": "Data security",
+      "body": "We use advanced protection protocols (such as encryption of data in transit and secure storage) to protect your information from unauthorized access, modification, destruction or disclosure. However, no method of transmitting data over the internet can be guaranteed to be 100% secure."
     },
-    "rights": {
-      "title": "Your rights",
-      "body": "You can access, update or delete your personal information at any time from your account settings, or by contacting us. You may also request a copy of your data or ask us to stop processing it, subject to applicable law."
+    "changes": {
+      "title": "Changes to this Privacy Policy",
+      "body": "We reserve the right to make changes to this Privacy Policy at any time. We will notify you of any significant changes through an in-app notice, and this page will be updated accordingly."
     },
     "contact": {
       "title": "Contact us",
-      "body": "If you have any questions about this Privacy Policy or how we handle your data, please reach out to us at support{'@'}deal.app and our team will be happy to help."
+      "body": "For any questions about this Privacy Policy, or to submit requests regarding the deletion of your account and personal data, please contact us by email at haider.alwide@gmail.com and our team will be happy to help."
     }
   },
   "footer": {
